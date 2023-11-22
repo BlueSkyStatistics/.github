@@ -1,0 +1,12 @@
+{
+    "name": "Create BlueSky Module Release",
+    "description": "Create BlueSky Module Release",
+    "iconName": "octicon package-dependents",
+    "categories": [
+        "JS"
+    ],
+    "filePatterns": [
+        "package.json$",
+        ".*\\.md$"
+    ]
+}
